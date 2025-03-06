@@ -1,0 +1,4 @@
+*.Log
+Library/
+Temp/
+Packages/
